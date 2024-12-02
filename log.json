@@ -1,0 +1,107 @@
+[
+    {
+        "line": 1,
+        "instruction": "LOAD_CONSTANT 1 0",
+        "binary": "0D000001"
+    },
+    {
+        "line": 2,
+        "instruction": "STORE_TO_MEMORY 0 0",
+        "binary": "15000000"
+    },
+    {
+        "line": 3,
+        "instruction": "LOAD_CONSTANT 2 1",
+        "binary": "0D100002"
+    },
+    {
+        "line": 4,
+        "instruction": "STORE_TO_MEMORY 1 1",
+        "binary": "15100001"
+    },
+    {
+        "line": 5,
+        "instruction": "LOAD_CONSTANT 3 2",
+        "binary": "0D200003"
+    },
+    {
+        "line": 6,
+        "instruction": "STORE_TO_MEMORY 2 2",
+        "binary": "15200002"
+    },
+    {
+        "line": 7,
+        "instruction": "LOAD_CONSTANT 4 3",
+        "binary": "0D300004"
+    },
+    {
+        "line": 8,
+        "instruction": "STORE_TO_MEMORY 3 3",
+        "binary": "15300003"
+    },
+    {
+        "line": 9,
+        "instruction": "LOAD_CONSTANT 5 4",
+        "binary": "0D400005"
+    },
+    {
+        "line": 10,
+        "instruction": "STORE_TO_MEMORY 4 4",
+        "binary": "15400004"
+    },
+    {
+        "line": 11,
+        "instruction": "LOAD_CONSTANT 6 5",
+        "binary": "0D500006"
+    },
+    {
+        "line": 12,
+        "instruction": "STORE_TO_MEMORY 5 5",
+        "binary": "15500005"
+    },
+    {
+        "line": 13,
+        "instruction": "LOAD_CONSTANT 7 6",
+        "binary": "0D600007"
+    },
+    {
+        "line": 14,
+        "instruction": "STORE_TO_MEMORY 6 6",
+        "binary": "15600006"
+    },
+    {
+        "line": 15,
+        "instruction": "UNARY_MINUS 0 0",
+        "binary": "1F000000"
+    },
+    {
+        "line": 16,
+        "instruction": "UNARY_MINUS 1 1",
+        "binary": "1F100001"
+    },
+    {
+        "line": 17,
+        "instruction": "UNARY_MINUS 2 2",
+        "binary": "1F200002"
+    },
+    {
+        "line": 18,
+        "instruction": "UNARY_MINUS 3 3",
+        "binary": "1F300003"
+    },
+    {
+        "line": 19,
+        "instruction": "UNARY_MINUS 4 4",
+        "binary": "1F400004"
+    },
+    {
+        "line": 20,
+        "instruction": "UNARY_MINUS 5 5",
+        "binary": "1F500005"
+    },
+    {
+        "line": 21,
+        "instruction": "UNARY_MINUS 6 6",
+        "binary": "1F600006"
+    }
+]
